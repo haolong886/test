@@ -1,4 +1,3 @@
-bbb
 #include <linux/module.h>
 #include <asm-generic/gpio.h>
 #include <linux/kobject.h>
