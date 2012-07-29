@@ -1,1 +1,0 @@
-cmd_/usr/src/rd_board/test/rd_test/led.ko := arm-none-linux-gnueabi-ld -EL -r  -T /usr/src/rd_board/rd_linux-2.6.32/scripts/module-common.lds --build-id -o /usr/src/rd_board/test/rd_test/led.ko /usr/src/rd_board/test/rd_test/led.o /usr/src/rd_board/test/rd_test/led.mod.o
